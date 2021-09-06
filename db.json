@@ -6,6 +6,13 @@
       "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
       "animation_url": "https://ipfs.io/ipfs/QmXDpBkCh7gox2nf1CrjkBsS6DdEVYN9iNGwPQndGA5Lv8/035001.html",
       "name": "test 3"
+    },
+    {
+      "id": 4,
+      "description": "My 4",
+      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "My NFT 4"
     }
   ],
   "comments": [
